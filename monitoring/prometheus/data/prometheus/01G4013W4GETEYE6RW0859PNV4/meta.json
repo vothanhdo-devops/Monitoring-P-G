@@ -1,0 +1,17 @@
+{
+	"ulid": "01G4013W4GETEYE6RW0859PNV4",
+	"minTime": 1653552782298,
+	"maxTime": 1653559200000,
+	"stats": {
+		"numSamples": 890220,
+		"numSeries": 783,
+		"numChunks": 7086
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01G4013W4GETEYE6RW0859PNV4"
+		]
+	},
+	"version": 1
+}
